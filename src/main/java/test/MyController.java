@@ -37,4 +37,12 @@ public class MyController {
 		
 	}
 	
+	public void ajax() {
+		result.of(this).ajaxView();
+	}
+	
+	public void ajaxView() {
+		
+	}
+	
 }

@@ -1,0 +1,1 @@
+<%@ taglib tagdir="/WEB-INF/tags" prefix="tg"%>{"object": {"controller": "${controller}", "action": "${action}", "tag": "<tg:view/>"}}
